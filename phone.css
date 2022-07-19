@@ -1,0 +1,31 @@
+.search {
+  display: none;
+  align-items: center;
+  padding: 5px 4px;
+}
+.head {
+  margin-top: 2vh;
+}
+.section-1 {
+  flex-direction: column;
+  justify-content: center;
+}
+header {
+  height: 30vh;
+}
+.section-1 .section-1-item {
+  position: relative;
+  width: 400px;
+  width: 15rem;
+  margin: 15px 5px;
+  overflow: hidden;
+  border-radius: 10px;
+  background: white;
+  border: 1px solid rgb(228, 228, 228);
+}
+.head h3 {
+  font-size: 2.1rem;
+  color: whitesmoke;
+  font-weight: 400;
+  padding: 5px;
+}
